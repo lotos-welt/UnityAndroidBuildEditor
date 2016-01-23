@@ -1,5 +1,5 @@
 # 概要
-Unityで使用できるUnity上でAndroidデバイスにAPKファイルをインストールできるEditor拡張です。  
+Unityで使用できるAndroidデバイスにAPKファイルをインストールできるEditor拡張です。  
 　　
 # 使用方法
 EditorディレクトリごとAssets以下に配置してください。  
