@@ -38,7 +38,7 @@ public class AndroidBuild : EditorWindow {
 	private Vector2 m_SelectBtnSize = new Vector2(100,20);
 	private Vector2 m_ListClearBtnSize = new Vector2(80,20);
 	private Vector2 m_BulidBtnSize = new Vector2(150,40);
-    private Vector2 m_CancelBtnSize = new Vector2(150, 40);
+        private Vector2 m_CancelBtnSize = new Vector2(150, 40);
 
 	/// <summary>
 	/// ファイルパス欄.
