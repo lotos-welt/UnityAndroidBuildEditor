@@ -369,7 +369,7 @@ public class AndroidBuild : EditorWindow {
 		process.BeginOutputReadLine();
 
 		// プロセスエラー結果出力.
-      process.BeginErrorReadLine();
+                process.BeginErrorReadLine();
 
 		is_select_Btn = false;
 
